@@ -1,6 +1,7 @@
 ; Program:          hello.asm
 ; Description:      Hello World program in 8080 assembly language
 ; Requirements:     MITS Altair Programming System II
+; Author:           Keith Norton      
 ;
 ; This program outputs the string "Hello, world!" one character
 ; at a time. It polls an input port to determine when the output
